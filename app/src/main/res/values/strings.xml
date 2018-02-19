@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="yellow_winner_msg">Yellow has won!</string>
+    <string name="red_winner_msg">Red has won!</string>
+    <string name="game_is_over">Game Over</string>
 </resources>
