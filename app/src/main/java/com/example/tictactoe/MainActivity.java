@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    boolean checkGame = false;
     int winner = 2;
     // 0 = yellow, 1 = red
     int activePlayer = 0;
